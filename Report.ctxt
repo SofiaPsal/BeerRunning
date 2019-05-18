@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Report
+comment1.params=departState\ ManageId\ id
+comment1.target=Report(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getDepartState()
+comment3.params=
+comment3.target=int\ getManageId()
+comment4.params=
+comment4.target=int\ getId()
+comment5.params=r
+comment5.target=void\ getRepInfo(Report)
+comment6.params=r
+comment6.target=boolean\ ReportReady(Report)
+numComments=7

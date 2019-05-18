@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ProductStatistics
+comment0.text=\r\n\ @author\ Maria\r\n
+comment1.params=
+comment1.target=ProductStatistics()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ProductStatistics\r\n
+comment2.params=
+comment2.target=void\ selectStatistics()
+numComments=3

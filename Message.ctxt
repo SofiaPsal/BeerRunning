@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Message
+comment1.params=sender\ receiver\ subject\ text
+comment1.target=Message(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=m
+comment2.target=void\ addMessage(Message)
+comment3.params=
+comment3.target=java.lang.String\ getSender()
+comment4.params=
+comment4.target=java.lang.String\ getReceiver()
+comment5.params=
+comment5.target=java.lang.String\ getSubject()
+comment6.params=
+comment6.target=java.lang.String\ getText()
+comment7.params=m
+comment7.target=void\ getMessInfo(Message)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=emailList
+comment9.target=boolean\ MessageCount(Message[])
+numComments=10

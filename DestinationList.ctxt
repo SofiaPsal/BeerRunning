@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DestinationList
+comment1.params=
+comment1.target=DestinationList()
+comment2.params=d
+comment2.target=void\ updateDestinationList(Destination)
+comment3.params=
+comment3.target=boolean\ DestinationListEmpty()
+numComments=4

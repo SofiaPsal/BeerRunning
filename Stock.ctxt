@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Stock
+comment1.params=
+comment1.target=Stock()
+comment2.params=
+comment2.target=java.lang.String\ getStockType()
+comment3.params=stockType
+comment3.target=void\ setStockType(java.lang.String)
+comment4.params=
+comment4.target=int\ getStockNum()
+comment5.params=stockNum
+comment5.target=void\ setStockNum(int)
+comment6.params=stockNum
+comment6.target=boolean\ isStockAvailable(int)
+numComments=7

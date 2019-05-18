@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Request
+comment1.params=
+comment1.target=Request()
+comment10.params=
+comment10.target=java.lang.String\ getComments()
+comment11.params=comments
+comment11.target=void\ setComments(java.lang.String)
+comment12.params=
+comment12.target=void\ finalRequest()
+comment2.params=
+comment2.target=int\ getRequestId()
+comment3.params=requestId
+comment3.target=void\ setRequestId(int)
+comment4.params=
+comment4.target=int\ getSender()
+comment5.params=sender
+comment5.target=void\ setSender(int)
+comment6.params=
+comment6.target=int\ getReceiver()
+comment7.params=receiver
+comment7.target=void\ setReceiver(int)
+comment8.params=
+comment8.target=java.util.Date\ getRequestDate()
+comment9.params=requestDate
+comment9.target=void\ setRequestDate(java.util.Date)
+numComments=13

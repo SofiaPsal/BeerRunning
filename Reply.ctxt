@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Reply
+comment1.params=receiver\ subject\ text
+comment1.target=Reply(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ FilledReceiver()
+comment3.params=
+comment3.target=boolean\ FilledSubject()
+numComments=4

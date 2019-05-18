@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DistributionManager
+comment1.params=id\ name\ email\ phone\ address\ afm
+comment1.target=DistributionManager(int,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment2.params=s
+comment2.target=boolean\ selectCustomerList(java.lang.String)
+comment3.params=s
+comment3.target=boolean\ selectShipmentAssignment(java.lang.String)
+comment4.params=
+comment4.target=void\ selectCategory()
+comment5.params=c\ a
+comment5.target=Customer\ selectCustomer(Category,\ int)
+numComments=6

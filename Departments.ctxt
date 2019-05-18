@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Departments
+comment1.params=departNum\ departName
+comment1.target=Departments(int,\ Dep)
+comment2.params=
+comment2.target=int\ getDepartNum()
+comment3.params=
+comment3.target=Dep\ getDepartName()
+comment4.params=d
+comment4.target=void\ GetDepInfo(Departments)
+numComments=5

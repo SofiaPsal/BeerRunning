@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Administrator
+comment1.params=id\ name\ email\ phone\ address\ AFM
+comment1.target=Administrator(int,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment10.params=u
+comment10.target=void\ Method(User)
+comment2.params=
+comment2.target=void\ Communication()
+comment3.params=emailList\ k
+comment3.target=Message\ SelectMessage(Message[],\ int)
+comment4.params=
+comment4.target=boolean\ ValidateReply()
+comment5.params=rec\ sub\ txt
+comment5.target=void\ WriteReply(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=void\ show()
+comment7.params=prof
+comment7.target=void\ SelectProfile(Administrator.Profiles)
+comment8.params=
+comment8.target=boolean\ DamageAssessment()
+comment9.params=rec
+comment9.target=boolean\ SendSystemStatus(java.lang.String)
+numComments=11

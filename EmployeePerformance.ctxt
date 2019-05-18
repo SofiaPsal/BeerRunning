@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EmployeePerformance
+comment1.params=empId\ rating\ statistics
+comment1.target=EmployeePerformance(int,\ int,\ float)
+comment2.params=
+comment2.target=void\ SelectPerformance()
+comment3.params=
+comment3.target=int\ getEmpId()
+comment4.params=
+comment4.target=int\ getRating()
+comment5.params=
+comment5.target=float\ getStatistics()
+comment6.params=empPer
+comment6.target=void\ getPerInfo(EmployeePerformance)
+numComments=7

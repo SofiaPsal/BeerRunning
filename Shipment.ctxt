@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Shipment
+comment1.params=o\ d
+comment1.target=Shipment(Order,\ Distributor)
+comment2.params=
+comment2.target=boolean\ paletesOk()
+comment3.params=s
+comment3.target=boolean\ validateInfo(Shipment)
+numComments=4
